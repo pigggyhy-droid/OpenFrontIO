@@ -6,6 +6,12 @@
     "svg": "ps"
   },
   {
+    "code": "az",
+    "native": "Azərbaycanca",
+    "en": "Azerbaijani",
+    "svg": "az"
+  },
+  {
     "code": "bg",
     "native": "Български",
     "en": "Bulgarian",
@@ -138,6 +144,12 @@
     "svg": "jp"
   },
   {
+    "code": "kk",
+    "native": "Қазақша",
+    "en": "Kazakh",
+    "svg": "kz"
+  },
+  {
     "code": "ko",
     "native": "한국어",
     "en": "Korean",
@@ -226,6 +238,12 @@
     "native": "Українська",
     "en": "Ukrainian",
     "svg": "ua"
+  },
+  {
+    "code": "uz",
+    "native": "Oʻzbekcha",
+    "en": "Uzbek",
+    "svg": "uz"
   },
   {
     "code": "vi",
